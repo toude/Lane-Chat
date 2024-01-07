@@ -17,7 +17,11 @@
 /key = print your hex encoded public key
 /logout = completely delete keys
 
+<<<<<<< Updated upstream
 https://github.com/toude/dirc/#self-hosted-install")
+=======
+https://github.com/chr15m/dirc/#self-hosted-install")
+>>>>>>> Stashed changes
 
 ; TODO:
 ; * command history
